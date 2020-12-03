@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**NelsonBretas/NelsonBretas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Here is What I'm Working On! 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ADVPL/PHP Projects
+- 🌱 I’m currently learning Portinari
+- 👯 I’m looking to collaborate on ADVPL 
+- 🤔 I’m looking for help with AWS
+- 💬 Ask me about Anything
+- 📫 How to reach me: [LinkedIn]https://www.linkedin.com/in/nelson-bretas-junior-677919141/
+- 😄 Pronouns: He/Him
+- ⚡ Fact: I am from São Paulo/Brazil
+
